@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Adapost
+comment1.params=
+comment1.target=java.util.List\ getAnimale()
+comment2.params=
+comment2.target=Adapost()
+comment3.params=
+comment3.target=Adapost\ getInstance()
+comment4.params=a
+comment4.target=void\ adaugaAnimal(Animal)
+comment5.params=
+comment5.target=void\ afiseazaAnimale()
+comment6.params=
+comment6.target=void\ afiseazaAnimaleDomestice()
+comment7.params=
+comment7.target=void\ afiseazaSortat()
+comment8.params=nume
+comment8.target=void\ adoptaAnimal(java.lang.String)
+numComments=9

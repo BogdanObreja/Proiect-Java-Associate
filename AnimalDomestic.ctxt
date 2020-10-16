@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=AnimalDomestic
+comment1.params=
+comment1.target=boolean\ getInterior()
+comment2.params=interior
+comment2.target=void\ setInterior(boolean)
+numComments=3
